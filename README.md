@@ -1,2 +1,2 @@
 # MitoNet
-This function uses DNA sequence data and returns a table with summary statistics based on information from haplotype networks.
+A function that leverages information from haplotype networks for de novo and alignment-free identification of exogenous haplotypes (i.e. DNA mixtures and/or NumtS).
